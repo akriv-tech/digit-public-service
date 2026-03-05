@@ -1,0 +1,70 @@
+# OS
+
+.DS_Store
+Thumbs.db
+
+# IntelliJ / IDE
+
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Build directories
+
+build/
+target/
+dist/
+out/
+
+# Logs
+
+*.log
+
+# Node / frontend
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+
+.env
+.env.*
+
+# Coverage
+
+coverage/
+
+# Temporary files
+
+*.tmp
+*.swp
+
+# Mac
+
+.DS_Store
+
+# Gradle
+
+.gradle/
+
+# Generated files
+
+*.class
+
+# Jenkins
+
+.jenkins/
+
+# GitHub local configs
+
+.github/local*
+
+# Misc
+
+*.bak
+*.cache
+
